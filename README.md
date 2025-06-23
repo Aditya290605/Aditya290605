@@ -21,7 +21,24 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Aditya290605&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" width="80%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Welcome+to+Aditya's+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things" />
+  <br/><br/>
+  
+  <!-- Profile Metrics Row -->
+  <img src="https://komarev.com/ghpvc/?username=Aditya290605&style=for-the-badge&color=F85D7F&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/Aditya290605?style=for-the-badge&color=F85D7F&labelColor=0D1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Aditya290605?style=for-the-badge&color=F85D7F&labelColor=0D1117&label=STARS" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-DYNAMIC-F85D7F?style=for-the-badge&labelColor=0D1117" />
+  <br/><br/>
+  
+  <!-- Repository Analysis Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya290605&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya290605&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya290605&theme=radical" width="32%" />
+  
+  <!-- Activity Graph -->
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya290605&theme=radical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
@@ -109,13 +126,6 @@
       </a>
     </p>
   </details>
-
-  <details>
-    <summary><h3>⚡ Recent GitHub Activity</h3></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya290605&theme=tokyo-night&hide_border=true" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya290605&theme=radical&hide_border=true" width="49%">
-  </details>
-</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
