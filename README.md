@@ -160,9 +160,9 @@ mission: Building intelligent, scalable mobile solutions
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aditya290605&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api?username=Aditya290605&show_icons=true&theme=radical&hide_border=true" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya290605&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/top-langs/?username=Aditya290605&layout=compact&theme=radical&hide_border=true" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya290605&theme=radical&hide_border=true" />
@@ -182,7 +182,8 @@ mission: Building intelligent, scalable mobile solutions
 
 ### 🏆 GitHub Trophies
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya290605&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <!-- IMPORTANT: If Trophies are broken, ensure you added GITHUB_TOKEN to your Vercel Environment Variables -->
+  <img src="https://github-profile-trophy-git-master-adits-projects-d0375a94.vercel.app/?username=Aditya290605" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -199,8 +200,6 @@ mission: Building intelligent, scalable mobile solutions
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 
   <br><br>
-  <!-- 🔴 IMPORTANT: Replace these repository names with your actual public repository names -->
-  <!-- These are placeholder repositories - update them with your real projects -->
   <table align="center">
   <tr>
     <!-- Latest Repositories -->
@@ -209,7 +208,7 @@ mission: Building intelligent, scalable mobile solutions
       <div align="center">
         <a href="https://github.com/Aditya290605/DailyFlow">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=DailyFlow&theme=radical&hide_border=true"
+            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=DailyFlow&theme=radical&hide_border=true"
             alt="DailyFlow"
           />
         </a>
@@ -226,21 +225,21 @@ mission: Building intelligent, scalable mobile solutions
       <div align="center">
         <a href="https://github.com/Aditya290605/Neo-Route">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=Neo-Route&theme=radical&hide_border=true"
+            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=Neo-Route&theme=radical&hide_border=true"
             alt="Neo-Route"
           />
         </a>
         <br><br>
         <a href="https://github.com/Aditya290605/SignBridge">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=SignBridge&theme=radical&hide_border=true"
+            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=SignBridge&theme=radical&hide_border=true"
             alt="SignBridge"
           />
         </a>
         <br><br>
         <a href="https://github.com/Aditya290605/smart_trip_planner_flutter">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=smart_trip_planner_flutter&theme=radical&hide_border=true"
+            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=smart_trip_planner_flutter&theme=radical&hide_border=true"
             alt="Smart Trip Planner"
           />
         </a>
@@ -300,23 +299,19 @@ mission: Building intelligent, scalable mobile solutions
     <tr>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /><br>
-        <sub><b>Advanced Flutter</b></sub><br>
-        <img src="https://progress-bar.dev/85/?title=Progress&width=120&color=02569B" />
+        <sub><b>Advanced Flutter</b></sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br>
-        <sub><b>API Testing</b></sub><br>
-        <img src="https://progress-bar.dev/70/?title=Progress&width=120&color=FF6C37" />
+        <sub><b>API Testing</b></sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>
-        <sub><b>Docker</b></sub><br>
-        <img src="https://progress-bar.dev/60/?title=Progress&width=120&color=2496ED" />
+        <sub><b>Docker</b></sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /><br>
-        <sub><b>Kubernetes</b></sub><br>
-        <img src="https://progress-bar.dev/50/?title=Progress&width=120&color=326CE5" />
+        <sub><b>Kubernetes</b></sub>
       </td>
     </tr>
   </table>
@@ -330,10 +325,10 @@ mission: Building intelligent, scalable mobile solutions
 
   <br><br>
 
-  ### 🎯 2024 Goals
+  ### 🎯 2026 Goals
 
-  - [x] Master Flutter & Dart
-  - [x] Build 5+ production apps
+  - [ ] Build wonderful projects
+  - [ ] Build 5+ production apps
   - [ ] Contribute to 10+ open source projects
   - [ ] Learn DevOps & Cloud Architecture
   - [ ] Create a popular Flutter package
