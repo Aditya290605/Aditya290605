@@ -1,7 +1,5 @@
-# <div align="center">👨‍💻 Aspiring Full-Stack & Mobile Developer | Passionate About Flutter & AI/ML</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Magar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20%7C%20AI%2FML%20Developer&descSize=20&descAlignY=58&descColor=aef" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,10 +30,12 @@
 
 <br>
 
+---
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎯Welcome+to+Aditya's+profile;🌟+Full-Stack+Developer+%7C+Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=🎯+Full-Stack+%26+Mobile+Developer;🌟+Flutter+Enthusiast+%7C+AI%2FML+Explorer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -48,27 +48,31 @@
       </td>
       <td width="50%" valign="top">
         <h3>Hi there! I'm <a href="https://github.com/Aditya290605">@Aditya290605</a> 👋</h3>
-        
+
 ```yaml
 name: Aditya Magar
 role: Full-Stack & Mobile Developer
-focus: 
-  - Flutter Development
-  - Cross-Platform Apps
+location: India 🇮🇳
+focus:
+  - Flutter & Cross-Platform Apps
   - AI/ML Integration
   - Backend Architecture
+  - Scalable Cloud Solutions
 currently_learning:
-  - Advanced Flutter
-  - Cloud Architecture
-  - DevOps Practices
-mission: Building intelligent, scalable mobile solutions
+  - Advanced Flutter Patterns
+  - Cloud Architecture (AWS)
+  - DevOps & Kubernetes
+mission: >
+  Building intelligent, scalable
+  mobile solutions that matter
 ```
 
 **Quick Facts:**
-- 🔥 A passionate **app developer** currently diving deep into **Flutter and cross-platform development**.
-- 💡 Exploring AI/ML & Backend to build **intelligent and full-stack applications**.
-- 🛠 Currently working on **News Apps, Creative AI Projects, and Scalable Mobile Solutions**.
-- 🎯 Focus: **Flutter, Firebase, API Integrations, and App UI/UX**.
+- 🔥 Passionate **Flutter developer** building production-grade cross-platform apps
+- 🤖 Integrating **AI/ML** into real-world mobile solutions
+- 🛠 Currently crafting **News Apps, Creative AI Projects & Smart Trip Planners**
+- 🎯 Strong focus on **Flutter, Firebase, REST APIs & App UI/UX**
+- 🌱 Always learning, always shipping
       </td>
     </tr>
   </table>
@@ -83,7 +87,6 @@ mission: Building intelligent, scalable mobile solutions
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Arsenal
 
 <div align="center">
-  
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### 💻 Programming Languages
@@ -92,20 +95,22 @@ mission: Building intelligent, scalable mobile solutions
 </p>
 
 <details open>
-<summary><b>🔍 Click to see proficiency levels</b></summary>
+<summary><b>🔍 Proficiency Levels</b></summary>
 <br>
 
-| Language | Proficiency | Use Cases |
-|----------|-------------|-----------|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ⭐⭐⭐⭐⭐ | Mobile App Development |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐ | AI/ML, Backend |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ | Web Development |
+| Language | Proficiency | Primary Use Cases |
+|----------|-------------|-------------------|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ⭐⭐⭐⭐⭐ | Flutter / Mobile Apps |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐ | AI/ML · Backend APIs |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ | Web · Node.js |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ⭐⭐⭐ | Android · Backend |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | DSA · Systems |
 
 </details>
 
 <br>
 
-### 🚀 Frameworks & Libraries  
+### 🚀 Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,express,nodejs,flask,fastapi,react&theme=dark" />
 </p>
@@ -137,7 +142,6 @@ mission: Building intelligent, scalable mobile solutions
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
   <div style="margin-top: 15px; padding-top: 15px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=⭐+Always+learning%2C+always+growing+⭐;💡+Code.+Build.+Deploy.+Repeat.+💡;🚀+Turning+ideas+into+reality+🚀" alt="Typing SVG" />
   </div>
@@ -149,10 +153,57 @@ mission: Building intelligent, scalable mobile solutions
 
 <br>
 
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/trophy.png" width="48"/><br>
+      <b>🥇 AIR 6 – IIT Madras Hackathon</b><br>
+      <sub>Ranked <b>6th nationally</b> out of 2000+ competing teams</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/medal.png" width="48"/><br>
+      <b>🏅 Top 5 Finalist – GECA Hackathon</b><br>
+      <sub>Selected among the <b>top 5 teams</b> at GECA's flagship hackathon</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/google-play.png" width="48"/><br>
+      <b>📲 100+ Play Store Downloads</b><br>
+      <sub>Shipped a real app with <b>100+ downloads</b> on Google Play Store</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/64/source-code.png" width="48"/><br>
+      <b>🛠️ 15+ Projects Shipped</b><br>
+      <sub>Real-world mobile apps, AI tools & backend services in production</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🎖️ Milestone Badges
+
+![Flutter](https://img.shields.io/badge/Flutter_Dev-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Power_User-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-3DDC84?style=for-the-badge&logo=github&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Builder-6C63FF?style=for-the-badge&logo=stackshare&logoColor=white)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  
+
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 📊 Performance Metrics
@@ -160,9 +211,9 @@ mission: Building intelligent, scalable mobile solutions
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api?username=Aditya290605&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api?username=Aditya290605&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
       <br><br>
-      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/top-langs/?username=Aditya290605&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/top-langs/?username=Aditya290605&layout=compact&theme=radical&hide_border=true&langs_count=8" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya290605&theme=radical&hide_border=true" />
@@ -176,14 +227,13 @@ mission: Building intelligent, scalable mobile solutions
 
 ### 📈 Contribution Graph
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya290605&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya290605&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br>
 
 ### 🏆 GitHub Trophies
 
-  <!-- IMPORTANT: If Trophies are broken, ensure you added GITHUB_TOKEN to your Vercel Environment Variables -->
-  <img src="https://github-profile-trophy-git-master-adits-projects-d0375a94.vercel.app/?username=Aditya290605" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya290605&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -196,86 +246,103 @@ mission: Building intelligent, scalable mobile solutions
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 
-  <br><br>
-  <table align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
+
+<br><br>
+
+### 🚀 Spotlight Projects
+
+<table align="center">
   <tr>
-    <!-- Latest Repositories -->
     <td width="50%" valign="top">
-      <h3 align="center">🔥 Latest Repository</h3>
+      <h3 align="center">🔥 Latest Drop</h3>
       <div align="center">
         <a href="https://github.com/Aditya290605/DailyFlow">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=DailyFlow&theme=radical&hide_border=true"
-            alt="DailyFlow"
-          />
+          <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=DailyFlow&theme=radical&hide_border=true" alt="DailyFlow" />
         </a>
         <br><br>
-        <p align="center">
+        <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Productivity-00D9FF?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         </p>
+        <p><sub>A smart daily productivity app that helps you track habits, tasks, and routines with a clean Flutter UI.</sub></p>
       </div>
     </td>
-    <!-- Most Starred -->
     <td width="50%" valign="top">
-      <h3 align="center">⭐ Most Starred</h3>
+      <h3 align="center">🤖 AI-Powered</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya290605/SignBridge">
+          <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=SignBridge&theme=radical&hide_border=true" alt="SignBridge" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Accessibility-3DDC84?style=for-the-badge" />
+        </p>
+        <p><sub>Real-time sign language recognition app using computer vision & ML — bridging communication gaps for the deaf community.</sub></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Most Starred</h3>
       <div align="center">
         <a href="https://github.com/Aditya290605/Neo-Route">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=Neo-Route&theme=radical&hide_border=true"
-            alt="Neo-Route"
-          />
+          <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=Neo-Route&theme=radical&hide_border=true" alt="Neo-Route" />
         </a>
         <br><br>
-        <a href="https://github.com/Aditya290605/SignBridge">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=SignBridge&theme=radical&hide_border=true"
-            alt="SignBridge"
-          />
-        </a>
-        <br><br>
-        <a href="https://github.com/Aditya290605/smart_trip_planner_flutter">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=smart_trip_planner_flutter&theme=radical&hide_border=true"
-            alt="Smart Trip Planner"
-          />
-        </a>
-        <br><br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+        <p>
+          <img src="https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
           <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Navigation-00D9FF?style=for-the-badge" />
         </p>
+        <p><sub>Smart routing app with real-time navigation, custom waypoints & offline map support.</sub></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ AI Trip Planner</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya290605/smart_trip_planner_flutter">
+          <img src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=Aditya290605&repo=smart_trip_planner_flutter&theme=radical&hide_border=true" alt="Smart Trip Planner" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+        </p>
+        <p><sub>AI-powered itinerary builder that creates personalized trip plans using Gemini API + real-time data.</sub></p>
       </div>
     </td>
   </tr>
 </table>
 
-  <br>
+<br>
 
-  ### 💼 Project Highlights
+### 💼 What I Build
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/flutter.png" width="50"/>
-        <br><b>Mobile Apps</b>
-        <br><sub>Cross-platform solutions</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-        <br><b>AI/ML Projects</b>
-        <br><sub>Intelligent systems</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/>
-        <br><b>Backend APIs</b>
-        <br><sub>Scalable services</sub>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/flutter.png" width="52"/><br>
+      <b>Cross-Platform Apps</b><br>
+      <sub>Production Flutter apps with pixel-perfect UI for iOS & Android</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="52"/><br>
+      <b>AI/ML Integration</b><br>
+      <sub>Computer vision, NLP, and generative AI baked into mobile apps</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/api.png" width="52"/><br>
+      <b>Scalable Backends</b><br>
+      <sub>REST APIs, Firebase, and cloud services powering real apps</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -299,39 +366,38 @@ mission: Building intelligent, scalable mobile solutions
     <tr>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /><br>
-        <sub><b>Advanced Flutter</b></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br>
-        <sub><b>API Testing</b></sub>
+        <sub><b>Advanced Flutter</b></sub><br>
+        <sub>State management, animations, performance</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>
-        <sub><b>Docker</b></sub>
+        <sub><b>Docker</b></sub><br>
+        <sub>Containerizing Flutter & backend apps</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /><br>
-        <sub><b>Kubernetes</b></sub>
+        <sub><b>Kubernetes</b></sub><br>
+        <sub>Orchestrating scalable microservices</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" /><br>
+        <sub><b>AWS Cloud</b></sub><br>
+        <sub>Serverless, EC2, S3, Lambda</sub>
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-
-  <br><br>
-
   ### 🎯 2026 Goals
 
-  - [ ] Build wonderful projects
-  - [ ] Build 5+ production apps
-  - [ ] Contribute to 10+ open source projects
-  - [ ] Learn DevOps & Cloud Architecture
-  - [ ] Create a popular Flutter package
+  | Goal | Status |
+  |------|--------|
+  | 🚀 Ship 5+ production apps | 🔄 In Progress |
+  | 🤝 Contribute to 10+ open source projects | 🔄 In Progress |
+  | ☁️ AWS Certified Developer | 📅 Planned |
+  | 📦 Publish a popular Flutter package | 📅 Planned |
+  | 🏗️ Master DevOps & Cloud Architecture | 📅 Planned |
 
 </div>
 
@@ -344,28 +410,28 @@ mission: Building intelligent, scalable mobile solutions
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
-  
+
   <img src="https://user-images.githubusercontent.com/74038190/212284126-13e5a61e-9b97-4a5f-8b52-01405c5ad870.gif" width="700">
 
   <br><br>
 
-  ### 📫 Reach Out To Me
+  ### 📫 Reach Out
 
   <p>
     <a href="https://www.linkedin.com/in/aditya-magar-3b3b602b3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:magaraditya2911@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://github.com/Aditya290605" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&style=flat-square" alt="Dev.to">
+      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
     </a>
   </p>
 
@@ -389,19 +455,19 @@ mission: Building intelligent, scalable mobile solutions
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/collaboration.png"/><br>
+        <img src="https://img.icons8.com/color/48/collaboration.png"/><br>
         <b>Collaborations</b>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/open-source.png"/><br>
+        <img src="https://img.icons8.com/color/48/open-source.png"/><br>
         <b>Open Source</b>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/internship.png"/><br>
+        <img src="https://img.icons8.com/color/48/internship.png"/><br>
         <b>Internships</b>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/puzzle-matching.png"/><br>
+        <img src="https://img.icons8.com/color/48/puzzle-matching.png"/><br>
         <b>Freelance Work</b>
       </td>
     </tr>
@@ -429,8 +495,8 @@ mission: Building intelligent, scalable mobile solutions
 
   ### ⭐ Star My Repositories
 
-  <p>If you like what you see, don't forget to star my repositories!</p>
-  
+  <p>If you find something useful, a ⭐ goes a long way!</p>
+
   <img src="https://img.shields.io/github/stars/Aditya290605?style=social" alt="GitHub Stars">
 
 </div>
@@ -442,7 +508,7 @@ mission: Building intelligent, scalable mobile solutions
 <br>
 
 <div align="center">
-  
+
   ## Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/212284087-818a3f9c-a9ce-4601-a696-9924e6ef8a6d.gif" width="30px" alt="waving hand">
 
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Thanks for Visiting!">
@@ -472,12 +538,12 @@ mission: Building intelligent, scalable mobile solutions
 
   <br>
 
-  **"The only way to do great work is to love what you do."** - Steve Jobs
+  **"The only way to do great work is to love what you do."** — Steve Jobs
 
   <br>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
